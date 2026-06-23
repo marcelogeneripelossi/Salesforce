@@ -13,13 +13,15 @@ O Trailhead é a plataforma de aprendizado oficial do Salesforce.
 1. Acesse o [Trailhead](https://trailhead.salesforce.com/).
 2. Clique em **Sign Up** (Inscrever-se).
 3. Escolha uma forma de login (Google, LinkedIn ou Email) e preencha seu perfil.
-![Sign Up](imgem-01-Trailblazer.jpg)
+![Sign Up](imagem-01-Trailblazer.jpg)
 4. Clique em **Avançar**.
 ---
 ### Passo 2: Inscrever-se em uma Organização Developer Edition (DE)
 1. Acesse o site oficial de inscrição: [salesforce.com](https://www.salesforce.com/products/free-trial/developer/).
 2. Preencha o formulário com seus dados:
-![Sign Up](imgem-02-Developer_Edition.jpg)
+
+![Sign Up Developer](imagem-02-Developer_Edition.jpg)
+
 3. Clique em **Sign me up**.
 4. Abra o seu email, procure a mensagem de confirmação do Salesforce e clique em **Verify Account**.
 5. Redefina sua senha e configure sua pergunta de segurança.
@@ -30,13 +32,25 @@ Sempre que quiser trabalhar no seu código ou configuração:
 2. Insira o seu *Username* e senha criados no Passo 2.
 3. Você cairá na página inicial. No canto superior direito, clique no ícone de **Engrenagem** e selecione **Setup** (Configuração). O Setup é o painel de controle do administrador e desenvolvedor.
 
+![Configuração](imagem-03-Configuração.jpg)
+
+4. A página de Setup.
+
+![Configuração](imagem-06-Setup-Painel.jpg)
+
 ### Passo 4: Abrir o Developer Console
 O Developer Console é a IDE interna do Salesforce usada para escrever código Apex, executar consultas SOQL e debugar.
-1. Certifique-se de que está na página de **Setup**.
-2. Clique novamente no ícone de **Engrenagem** no canto superior direito.
-3. Clique em **Developer Console**. Uma nova janela pop-up será aberta com o seu ambiente de desenvolvimento.
+1. Clique novamente no ícone de **Engrenagem** no canto superior direito.
+2. Clique em **Developer Console**. Uma nova janela pop-up será aberta com o seu ambiente de desenvolvimento.
+
+![Developer Console](imagem-04-Developer_Console.jpg)
+
+3. O **Developer Console** será aberto em uma nova janela do Navegador.
+
+![Painel Developer Console](imagem-05-Developer_Console-Painel.jpg)
 
 ### Fontes Recomendadas
+* [A interface de usuário do Developer Console](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_navigating.htm&type=5)
 * [Projeto Trailhead: Prepare-se para desenvolver no Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/projects/get-started-with-salesforce-development/get-ready-to-develop?trail_id=force_com_dev_beginner)
 * [Trilha Trailhead: Comece a desenvolver com o Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/projects/get-started-with-salesforce-development?trail_id=build-your-salesforce-developer-career)
 
