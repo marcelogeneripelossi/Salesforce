@@ -51,9 +51,8 @@ Este é um roteiro estruturado de 12 semanas (dedicação de 2 horas/dia) para d
 3.  **Trailhead é sua principal fonte:** Siga as trilhas oficiais para consolidar o conhecimento teórico com prática no ambiente.
 
 ---
-## O Primeiro Conceito Técnico: Governor Limits
 
-No .NET, você raramente se preocupa se uma consulta `SELECT` vai travar o servidor (a menos que seja um loop absurdo). No Salesforce, **você está em um ambiente multitenant.** Se o seu código consumir muitos recursos, ele é interrompido pelo sistema para não afetar os outros clientes.
-
-* **Regra de Ouro:** Nunca, sob hipótese alguma, coloque uma consulta SOQL ou uma operação DML dentro de um loop `for`. Isso causará um erro de tempo de execução imediato (Too many SOQL queries: 101).
-
+## Fontes Recomendadas
+* [Trilha Trailhead: Criar sua carreira de desenvolvedor do Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/trails/build-your-salesforce-developer-career)
+* [Trilha Trailhead: Desenvolvedor iniciante](https://trailhead.salesforce.com/pt-BR/content/learn/trails/force_com_dev_beginner)
+* [Trilha Trailhead: Desenvolvedor intermediário](https://trailhead.salesforce.com/pt-BR/content/learn/trails/force_com_dev_intermediate)
