@@ -4,20 +4,25 @@ Esta semana é dedicada a entender o "onde" antes de aprender o "como". Mas, por
 
 ### Dia 1: Navegação e o Setup
 
-* **Onde fica o Setup e o Object Manager:** Ambos ficam na interface principal do Salesforce (Web), acessíveis pela engrenagem no canto superior direito. O *Developer Console* é uma ferramenta de edição de código que vive *dentro* dessa interface.
+* **O Setup e o Object Manager:** Ambos ficam na interface principal do Salesforce (Web), acessíveis pela engrenagem no canto superior direito. O *Developer Console* é uma ferramenta de edição de código que vive *dentro* dessa interface.
 * **Conceito de Objetos:** Entender que *Accounts* (Contas) e *Contacts* (Contatos) são apenas "tabelas" com comportamentos especiais que já existem.
-* **Link:** [Trailhead: Salesforce Platform Basics](https://www.google.com/search?q=https://trailhead.salesforce.com/content/learn/modules/platform_dev_basics)
+* **Links:**
+  * [Descubra como Contas e Contatos trabalham juntos no Salesforce.](https://trailhead.salesforce.com/pt-BR/content/learn/modules/accounts_contacts_lightning_experience)
+  * [Objeto Contas](https://help.salesforce.com/s/articleView?id=sales.accounts.htm&type=5)
+  * [Objeto Contatos](https://help.salesforce.com/s/articleView?id=sales.contacts_overview.htm&type=5)
 
 ### Dia 2: O Poder da Customização
 
 * **O que é customizável:** Tudo. Desde campos, validações, até a própria UI e lógica de backend.
 * **O que é desenvolvido via código:** Regras de negócio complexas, integrações via API, automações que não cabem em fluxos declarativos (Flows).
-* **Link:** [Trailhead: Customizing the Salesforce Platform](https://trailhead.salesforce.com/content/learn/modules/lex_customization)
+* **Link:**
+  * [Trailhead: Customizing the Salesforce Platform](https://trailhead.salesforce.com/content/learn/modules/lex_customization)
 
 ### Dia 3: Developer Console
 
 * **Interface:** Entender como abrir o *Developer Console* (pela engrenagem). Aprender a usar o *Query Editor* (SOQL) e o *Log Panel*.
-* **Link:** [Documentação: Navegando no Developer Console](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_navigating.htm&type=5)
+* **Link:**
+  * [Documentação: Navegando no Developer Console](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_navigating.htm&type=5)
 
 ### Dia 4: Prática de Interface
 
