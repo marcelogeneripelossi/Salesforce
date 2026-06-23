@@ -6,18 +6,24 @@ Este é um roteiro estruturado de 12 semanas (dedicação de 1 hora/dia) para de
 
 | Semanas | Foco Principal | Objetivo de Aprendizado |
 | :--- | :--- | :--- |
-| **1-3** | **Data Modeling & Schema** | Objetos, campos, tipos, e o crucial: **Relacionamentos**. |
+| **1** | **Ambientação e UI** | Setup, Object Manager, Navegação e conceitos de Plataforma. |
+| **2-3** | **Data Modeling & Schema** | Objetos, campos, tipos, e o crucial: a lógica de **Relacionamentos (Master-Detail vs Lookup)**. |
 | **4-6** | **Lógica de Servidor (Apex)** | Sintaxe, DML, SOQL, e o domínio dos **Governor Limits**. |
 | **7-8** | **Automação & Trigger Framework** | Triggers, o ciclo de vida de uma transação e padrões de projeto (Frameworks). |
 | **9-10** | **Integração e Segurança** | OWD, Perfis, Permissões, API, e segurança em nível de campo. |
-| **11-12** | **UI (LWC), Testes e Certificação** | Lightning Web Components básicos, Apex Tests e Revisão final. |
+| **11-12** | **UI (LWC), Testes e Certificação** | Lightning Web Components (LWC) básico, Apex Tests e Revisão final. |
 
 ---
 
 ## Detalhamento do Plano
 
-### Semanas 1-3: Data Modeling & Schema
-* **Conceitos:** Standard vs. Custom Objects, tipos de campos, Schema Builder.
+### Semana 1: Ambientação e UI
+* **Setup:** O coração da administração do Salesforce.
+* **Object Explorer:** Serve especificamente para gerenciar a estrutura de dados do Salesforce.
+* **Objetos:** "tabelas" com comportamentos especiais.
+
+### Semanas 2-3: Data Modeling & Schema
+* **Conceitos:** Standard Objects vs. Custom Objects, tipos de campos, Schema Builder.
 * **Foco PD1:** Diferença entre Lookup e Master-Detail (comportamento de segurança e deleção em cascata).
 * **Ação:** Praticar a criação de objetos no seu *Developer Edition*.
 
