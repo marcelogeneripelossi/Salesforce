@@ -52,7 +52,6 @@ O Developer Console é a IDE interna do Salesforce usada para escrever código A
 ### Fontes Recomendadas
 * [A interface de usuário do Developer Console](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_navigating.htm&type=5)
 * [Projeto Trailhead: Prepare-se para desenvolver no Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/projects/get-started-with-salesforce-development/get-ready-to-develop?trail_id=force_com_dev_beginner)
-* [Trilha Trailhead: Comece a desenvolver com o Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/projects/get-started-with-salesforce-development?trail_id=build-your-salesforce-developer-career)
 
 ---
 
@@ -152,7 +151,3 @@ Como você marcou a caixa anterior, a tela de criação de Guia abrirá automati
 
 **Pronto!** Seu objeto customizado `Carro__c` foi criado com sucesso e já possui uma aba visível no menu do sistema para você criar e gerenciar registros.
 
-### Fontes Recomendadas
-* [Trilha Trailhead: Conceitos básicos do Salesforce para desenvolvedores .NET](https://trailhead.salesforce.com/pt-BR/content/learn/trails/microsoft_dotnet)
-* [Módulo Trailhead: Criar um objeto personalizado (Quick Look)](https://trailhead.salesforce.com/pt-BR/content/learn/modules/create-a-custom-object-quick-look/create-a-custom-object)
-* [Projeto Trailhead: Personalizar um objeto do Salesforce](https://trailhead.salesforce.com/pt-BR/content/learn/projects/customize-a-salesforce-object)
