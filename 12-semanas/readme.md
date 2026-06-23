@@ -1,6 +1,6 @@
 # Plano de Estudos: Transição .NET para Salesforce (Developer PD1)
 
-Este é um roteiro estruturado de 12 semanas (dedicação de 1 hora/dia) para desenvolvedores .NET/C# que desejam migrar para o ecossistema Salesforce e obter a certificação **Platform Developer I (PD1)**.
+Este é um roteiro estruturado de 12 semanas (dedicação de 2 horas/dia) para desenvolvedores .NET/C# que desejam migrar para o ecossistema Salesforce e obter a certificação **Platform Developer I (PD1)**.
 
 ## Estratégia de Treinamento (12 Semanas)
 
