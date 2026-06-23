@@ -6,7 +6,7 @@ Este guia prático foi criado para quem está iniciando a jornada de desenvolvim
 
 ## 1. Iniciando no Salesforce: Primeiros passos com o Developer Edition
 
-Para começar a desenvolver no Salesforce sem custos, você precisa de uma organização de testes chamada **Developer Edition (DE)**. Ela é um ambiente completo, gratuito e que não expira.
+Para começar a desenvolver no Salesforce sem custos, você precisa de uma `organização de testes` chamada **Developer Edition (DE)**. Ela é um ambiente completo, gratuito e que não expira.
 
 ### Passo 1: Criar sua conta Trailhead (Opcional, mas recomendado)
 O Trailhead é a plataforma de aprendizado oficial do Salesforce.
