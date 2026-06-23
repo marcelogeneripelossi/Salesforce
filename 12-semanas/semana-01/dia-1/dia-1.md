@@ -13,13 +13,13 @@ O Trailhead é a plataforma de aprendizado oficial do Salesforce.
 1. Acesse o [Trailhead](https://trailhead.salesforce.com/).
 2. Clique em **Sign Up** (Inscrever-se).
 3. Escolha uma forma de login (Google, LinkedIn ou Email) e preencha seu perfil.
-
+![Sign Up](imgem-01-Trailblazer.jpg)
+4. Clique em **Avançar**.
+---
 ### Passo 2: Inscrever-se em uma Organização Developer Edition (DE)
-1. Acesse o site oficial de inscrição: [://salesforce.com](https://://salesforce.com).
+1. Acesse o site oficial de inscrição: [salesforce.com](https://www.salesforce.com/products/free-trial/developer/).
 2. Preencha o formulário com seus dados:
-   - **Email:** Use um endereço real (você precisará dele para ativar a conta).
-   - **Role:** Selecione *Developer*.
-   - **Username:** Deve ser em formato de email (ex: `seu_nome@dev2026.com`), mas não precisa ser um email real. Ele deve ser exclusivo em todo o ecossistema Salesforce.
+![Sign Up](imgem-02-Developer_Edition.jpg)
 3. Clique em **Sign me up**.
 4. Abra o seu email, procure a mensagem de confirmação do Salesforce e clique em **Verify Account**.
 5. Redefina sua senha e configure sua pergunta de segurança.
