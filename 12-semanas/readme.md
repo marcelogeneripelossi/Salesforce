@@ -43,3 +43,11 @@ Este é um roteiro estruturado de 12 semanas (dedicação de 1 hora/dia) para de
 1.  **Esqueça o Entity Framework:** O Salesforce gerencia o banco de dados via metadados. Não há *Migrations* via código.
 2.  **Bulkificação é Vida:** Em C#, `foreach(var i in list) { db.Save(i); }` pode ser aceitável. Em Apex, isso causará falha por *Governor Limits*. Sempre trabalhe com coleções.
 3.  **Trailhead é sua principal fonte:** Siga as trilhas oficiais para consolidar o conhecimento teórico com prática no ambiente.
+
+---
+## O Primeiro Conceito Técnico: Governor Limits
+
+No .NET, você raramente se preocupa se uma consulta `SELECT` vai travar o servidor (a menos que seja um loop absurdo). No Salesforce, **você está em um ambiente multitenant.** Se o seu código consumir muitos recursos, ele é interrompido pelo sistema para não afetar os outros clientes.
+
+* **Regra de Ouro:** Nunca, sob hipótese alguma, coloque uma consulta SOQL ou uma operação DML dentro de um loop `for`. Isso causará um erro de tempo de execução imediato (Too many SOQL queries: 101).
+
